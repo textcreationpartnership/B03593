@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The glory of dying in war: with a particular application to the death of the late Earl of Sandwich.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03593</idno>
+            <idno type="OCLC"> 09070582</idno>
+            <idno type="STC">Wing G874</idno>
+            <idno type="STC">Wing P592A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.3[138]</idno>
+            <idno type="STC">ESTC R21848</idno>
+            <idno type="EEBO-CITATION">99884833</idno>
+            <idno type="PROQUEST">ocm99884833</idno>
+            <idno type="VID">182622</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182622)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:1[138])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The glory of dying in war: with a particular application to the death of the late Earl of Sandwich.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Blest Sandwich! Earth's envy! Heaven's delight! ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sandwich, Edward Montagu, --  Earl of, 1625-1672 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182622:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>The Glory of Dying in WAR: WITH A particular Application to the Death OF THE Late EARL of SANDWICH.</head>
+            <lg>
+               <l>BLeſt <hi>Sandwich!</hi> Earth's envy! Heaven's delight!</l>
+               <l>Whom the Gods honoured to die in Fight!</l>
+               <l>A Glory far beyond the pow'r of Verſe;</l>
+               <l>Only, for <hi>Mars,</hi> and <hi>Cannons,</hi> to rehearſe.</l>
+               <l>'Tis Nature's pride; Virtue's reward; a Bliſs</l>
+               <l>Would make the Angels ſlight their happineſs,</l>
+               <l>And Court this Death; Maugre the blinde miſtake</l>
+               <l>Of vulgar ſp'rits, and thoſe lean Souls, who make</l>
+               <l>It terrible; chuſing rather to go</l>
+               <l>Ten years tormented with a Gouty Toe,</l>
+               <l>Or war againſt a Cough, their loathing tongues</l>
+               <l>Spitting the filth, out of their conquer'd lungs:</l>
+               <l>Or elſe their Corpſe, with Salves and Sear-Cloths pleaſe;</l>
+               <l>Live rotten Monuments of their diſeaſe;</l>
+               <l>And carry pale-fac'd Death about to ſhow,</l>
+               <l>Making a Grave, and ſtink, where e're they go.</l>
+            </lg>
+            <lg>
+               <l>Whilſt thou, Great <hi>Sandwich,</hi> mad'ſt a Nobler choice,</l>
+               <l>Not to be prais'd enough by humane voice.</l>
+            </lg>
+            <lg>
+               <l>Who in defence of King and Country di'd,</l>
+               <l>Have ever hitherto been Deifi'd.</l>
+               <l>The ſharpeſt Teeth of Time could never skar</l>
+               <l>The Glory of a man was kill'd i'th' War.</l>
+               <l>If Advocates gain honour by a Cauſe</l>
+               <l>Concerning Treſpaſs in the Common-Laws;</l>
+               <l>What merits he, who pleads with dint of Sword?</l>
+               <l>And may be kill'd, or kill at every word:</l>
+               <l>Who ſpeaks with Lightning and with dreadful Thunder,</l>
+               <l>Making the Earth to ſhake, all Mortals wonder:</l>
+               <l>By whoſe ſucceſs, Kingdoms or fall, or ſtand,</l>
+               <l>Has the fortune of Princes in his hand;</l>
+               <l>Nay, the worſhip of the Gods! nay, the lives</l>
+               <l>Of our ſelves, our ſervants, children and wives.</l>
+            </lg>
+            <lg>
+               <l>In this Concern ſtout <hi>Sandwich</hi> bravely ſtood,</l>
+               <l>Until he floated in a Sea of Blood:</l>
+               <l>Repell'd the fury of the <hi>Hogen</hi> Might;</l>
+               <l>Shiver'd their Valour, baniſh'd 'em the Fight:</l>
+               <l>And then to make his Victory compleat,</l>
+               <l>The Heavens ſtoop'd, and took him from the Fleet,</l>
+               <l>Leaving his Body on the gentle Bed</l>
+               <l>Of <hi>Neptune,</hi> where the <hi>Sea-gods</hi> honoured</l>
+               <l>His Herſe, and with the Glories of the Main</l>
+               <l>Conducted it to ſhore; when with a Train</l>
+               <l>Of Honours it was met, and in great State</l>
+               <l>Placed amongſt the <hi>Gods</hi> o'th' <hi>Second Rate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus whilſt his Corpſe inſults with Royal love,</l>
+               <l>His Soul is led in Triumph by Great <hi>Jove.</hi>
+               </l>
+               <l>Heaven and Earth do both conſpire to build</l>
+               <l>Trophies unto the man that dies i'th' Field.</l>
+            </lg>
+            <lg>
+               <l>Now come, ye curſt Diſeaſes, that have led</l>
+               <l>Your Captive Coward to his dying Bed;</l>
+               <l>Shew me what eaſe, what comfort you afford</l>
+               <l>The <hi>Proſelyte</hi> you gained from the Sword.</l>
+               <l>'Tis true, you give a little time; for what?</l>
+               <l>To make him feel his grief, or lye and rot:</l>
+               <l>A Cap, a Doctor, and a tender Nurſe;</l>
+               <l>And ſo you plague his Body with his Purſe:</l>
+               <l>Ye put him on a Rack; he ne're confeſt,</l>
+               <l>Nor yet by flatteries, your Death was beſt.</l>
+            </lg>
+            <lg>
+               <l>Tell me, ſick Clay, what Honour, what Renown</l>
+               <l>It is to die upon a Bed of <hi>Down?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No, no; the way to Glory doth not lye</l>
+               <l>Thorough the pangs of a ſad Malady:</l>
+               <l>Not he who is a Slave to Death, and ſtands</l>
+               <l>Ready to ſerve her Meſſengers Commands;</l>
+               <l>Submits to every diſeaſe, and falls,</l>
+               <l>VVhen e're a petty Cold, or Fever calls:</l>
+               <l>That man's a man of life, and valour, can</l>
+               <l>Bid Death ſtand off; and when he pleaſe, come on;</l>
+               <l>That, for his Countries ſake, dares ſingle meet</l>
+               <l>All the Death-Heads o'th' <hi>Hogen Mogen</hi> Fleet!</l>
+               <l>Make Death ſerve him, in killing others, then</l>
+               <l>Commands it to return to him agen;</l>
+               <l>And lift him from this doleful Vale of Tears,</l>
+               <l>(VVithout the help of Sickneſs, or of Years)</l>
+               <l>Unto Eternal Joy, and Bliſs, and Glory,</l>
+               <l>VVhere Angels love to Chant, and tell his Story.</l>
+               <l>Thus did, thus liv'd, thus di'd, admir'd by all;</l>
+               <l>
+                  <hi>SANDWICH</hi> the Great, and Valiant Admiral.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed by <hi>J. C.</hi> 1672.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
